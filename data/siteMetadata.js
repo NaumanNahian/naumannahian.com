@@ -6,7 +6,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://naumannahian.com',
-  siteRepo: 'https://github.com/NaumanNahian/naumannahian.com.git',
+  siteRepo: 'https://github.com/NaumanNahian/naumannahian.com',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
