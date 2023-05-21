@@ -6,13 +6,13 @@ draft: false
 summary: ''
 ---
 
-Good day. Since the beginning of my work in 2014, I've been planning to create one personal website. Finally, I've started it in a Lazy weekend.
+Good day (̿▀̿‿ ̿▀̿ ̿). Since the beginning of my work in 2014, I've been planning to create one personal website. Finally, I've started it in a Lazy weekend.
 
-My plan was to use own infrastructure to host my site so that I can do whatever I want with production :grin:. But my wallet doesn't like that idea, so I've to drop the idea and start with hybrid one which I will share in another post.
+My plan was to use own infrastructure to host my site so that I can do whatever I want with production ツ. But my wallet doesn't like that idea ( ͡° ʖ̯ ͡°), so I've to drop the idea and start with hybrid one which I will share in another post.
 
 My goal is to share my career experience, productivity tips, tutorials and guidelines. Actually, find a lazy day and share whatever comes to my mind.
 
-Let's see how my planted seed develops.
+Let's see how my planted seed develops ███▒▒▒▒▒▒▒
 
 ---
 
