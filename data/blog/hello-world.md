@@ -6,7 +6,7 @@ draft: false
 summary: ''
 ---
 
-Good day (̿▀̿‿ ̿▀̿ ̿). Since the beginning of my work in 2014, I've been planning to create one personal website. Finally, I've started it in a Lazy weekend.
+Good day (̿▀̿‿ ̿▀̿ ̿). Since the beginning of my work in 2014, I've been planning to create one personal website. Finally, I've started it in a lazy weekend.
 
 My plan was to use own infrastructure to host my site so that I can do whatever I want with production ツ. But my wallet doesn't like that idea ( ͡° ʖ̯ ͡°), so I've to drop the idea and start with hybrid one which I will share in another post.
 
