@@ -12,9 +12,10 @@ My plan was to use own infrastructure to host my site so that I can do whatever 
 
 My goal is to share my career experience, productivity tips, tutorials and guidelines. Actually, find a lazy day and share whatever comes to my mind.
 
-Let's see how the seed develops.
+Let's see how my planted seed develops.
 
 ---
+
 ```
 You don't have to be great to to start, but you have to start to be great.
 - ZIG ZIGLAR
